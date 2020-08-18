@@ -1,13 +1,9 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+## M_Xav portfolio
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+This repository contains the sources for my portfolio !
 
-Oh! I haven't introduced myself...
+Started from the GitHub Lab course named [*"Communicating using Markdown"*](https://lab.github.com/githubtraining/communicating-using-markdown), it now contains my fully updated portfolio.
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
+To check the final look of my portfolio, you can follow this [link](https://xav83.github.io/markdown-portfolio/) or go to https://xav83.github.io/markdown-portfolio/ in your navigator of choice :wink:.
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
